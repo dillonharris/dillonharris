@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <p>💬 Ask me about <strong>Ruby on Rails</strong></p>
-  <p>📫 How to reach me <strong>harrisdillon0@gmail.com</strong></p>
+  <p>📫 How to reach me <strong><a href='#socials'>Check out my socials</a></strong></p>
   <p>⚡ Fun fact <strong>Coffee > Tea</strong></p>
 </div>
 
@@ -73,7 +73,7 @@
 
 ---
 
-<h3 align="center">Socials</h3>
+<h3 align="center" id='socials'>Socials</h3>
 <p align="center">
 <a href="https://dev.to/harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harrisdillon0" height="30" width="30" /></a>
 <a href="https://twitter.com/harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harrisdillon0" height="30" width="30" /></a>
