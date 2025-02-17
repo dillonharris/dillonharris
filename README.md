@@ -76,11 +76,8 @@
 <h3 align="center" id='socials'>Socials</h3>
 <p align="center">
 <a href="https://dev.to/harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harrisdillon0" height="30" width="30" /></a>
-<a href="https://twitter.com/harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harrisdillon0" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/dillon-harris-21a225112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dillon-harris-21a225112" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10985051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10985051" height="30" width="30" /></a>
-<a href="https://fb.com/dillon.harris.75470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dillon.harris.75470" height="30" width="30" /></a>
-<a href="https://instagram.com/harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harrisdillon0" height="30" width="30" /></a>
 <a href="https://medium.com/@harrisdillon0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harrisdillon0" height="30" width="30" /></a>
 </p>
 
